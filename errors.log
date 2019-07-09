@@ -1,0 +1,464 @@
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
+ERROR:root:Except on get_username_by_user_id
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 762, in get_username_by_user_id
+    profile = instaloader.Profile.from_id(self.instaload.context, user_id)
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\structures.py", line 405, in from_id
+    rhx_gis=context.root_rhx_gis)['data']['user']
+  File "C:\Users\ADRIAN\AppData\Local\Programs\Python\Python36\lib\site-packages\instaloader\instaloadercontext.py", line 474, in root_rhx_gis
+    self._root_rhx_gis = self.get_json('', {})['rhx_gis']
+KeyError: 'rhx_gis'
+ERROR:root:Except on follow!
+Traceback (most recent call last):
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\instabot.py", line 975, in follow
+    insert_username(self, user_id=user_id, username=username)
+  File "C:\Users\ADRIAN\Downloads\instabot.py-master\instabot_py\sql_updates.py", line 127, in insert_username
+    + "')"
+TypeError: must be str, not bool
